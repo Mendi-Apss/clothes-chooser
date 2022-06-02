@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mendi-Apss/clothes-chooser/issues"
   },
-  "homepage": "https://github.com/Mendi-Apss/clothes-chooser#readme"
+  "homepage": "https://github.com/Mendi-Apss/clothes-chooser#readme",
+  "dependencies": {
+    "typescript": "^4.7.2"
+  }
 }
